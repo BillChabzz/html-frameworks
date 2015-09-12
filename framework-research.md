@@ -12,4 +12,9 @@ The concept of frameworks can be applied to different processes
 
 There are various html frameworks which include:
 
-1. **HTML5 boilerplate** 
+1. **HTML5 boilerplate** - a framework that provides useful tools and features which include:
+        *analytics,icons and more
+        *nomarlize.css and helpers
+        *jquerry and modernizr
+        *high performance
+2. **Get skeleton** - 
