@@ -25,7 +25,6 @@ There are various html frameworks which include:
        * Functional reactive bindings - supports simple and two-way data binding between components,objects and collections allowing the developer to coordinate the state between views and models.
 
 It also has a dedicated cloud based visual authoring environment which is free to use.
-
 4. **Zebra** - Framework to develop web based rich UI applications. The approach sits ontop of HTML5 canvas element that can render any imaginable UI.
 
 Zebra UI engine provides various capabilities such as:
@@ -38,5 +37,15 @@ Zebra UI engine provides various capabilities such as:
 * shaped focusable components
 * mouse event handling
 
-The latest Zebra version is distributed under Apache licence
+The latest Zebra version is distributed under Apache licence.
+
+5. **Framework7** - free open source HTML5 framework to build web apps or mobile apps with mobile feel. However, it is not compatible with all platforms it is focused on only IOS and material design.
+
+It is easy to use to build mobile apps.
+
+It us an IOS specific framework.
+
+Framwork7 Material Design was designed according to Google Material Design specification.
+
+It comes with ready to use UI components.
 
