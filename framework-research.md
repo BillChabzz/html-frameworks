@@ -49,3 +49,18 @@ Framwork7 Material Design was designed according to Google Material Design speci
 
 It comes with ready to use UI components.
 
+Advantages of using frameworks.
+
+* learn good practices
+* speeds up mock up process
+* clean and tidy code
+* browser cross compatibility
+* learn good practices
+* solutions to common CSS problems
+
+Disadvantages of frameworks.
+* unsused code leftover
+* slower learnig curve
+* one doesn't learn to do things by himself
+
+It is important to note that it is not necessary to use a framework but it is ultimately the decision of the developers to make the final decision.
