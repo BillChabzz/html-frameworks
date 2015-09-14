@@ -1,4 +1,4 @@
-#Framwork
+#Framework
 What is a **framework**?
 A framework is a standardised set of concepts,criteria and practices for dealing with a commont type of problem.
 The aim for frameworks is to provide  a common structure so that developers dont have to redo it from scratch and
