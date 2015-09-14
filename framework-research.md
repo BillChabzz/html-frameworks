@@ -25,6 +25,7 @@ There are various html frameworks which include:
        * Functional reactive bindings - supports simple and two-way data binding between components,objects and collections allowing the developer to coordinate the state between views and models.
 
 It also has a dedicated cloud based visual authoring environment which is free to use.
+
 4. **Zebra** - Framework to develop web based rich UI applications. The approach sits ontop of HTML5 canvas element that can render any imaginable UI.
 
 Zebra UI engine provides various capabilities such as:
@@ -36,4 +37,6 @@ Zebra UI engine provides various capabilities such as:
 * layouted components
 * shaped focusable components
 * mouse event handling
+
+The latest Zebra version is distributed under Apache licence
 
